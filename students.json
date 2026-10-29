@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Your Teacher",
+    "github": "",
+    "emoji": "🎓",
+    "language": "Python",
+    "message": "Welcome to the Class Wall! Add yourself using Git and GitHub."
+  },
+  {
+    "name": "Octocat",
+    "github": "octocat",
+    "emoji": "🐙",
+    "language": "Ruby",
+    "message": "I'm GitHub's mascot. Open a pull request and join me!"
+  }
+]
